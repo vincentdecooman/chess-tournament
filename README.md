@@ -1,4 +1,5 @@
 # chess-tournament
+Feel free to use it in your own CTF! Just mention me :P
 ### Flag
 	FLAG-{ch3ss-W1Ll-rUn-Th3-W0rld}
 You may change the flag in [chess-tournament/src/config.py](./chess/src/config.py)
